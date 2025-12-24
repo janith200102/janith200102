@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janith200102&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=janith200102&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janith200102&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br />
@@ -57,9 +57,10 @@
 
 ### 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/janith-kuruppu">
+<a href="https://www.linkedin.com/in/janith-kuruppu-2bb2b8291">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:janithkuruppu0202@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
