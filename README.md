@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-- [cite_start]🎓 I recently graduated with a **BSc (Hons) in Software Engineering** from Plymouth University (UK)[cite: 46].
-- [cite_start]💼 Currently working as an **IT Project Leader** at **Smart Scholar Hub (Pvt) Ltd**[cite: 31].
-- [cite_start]💻 I love building user-centric applications using **React, Node.js, and Java**[cite: 26].
-- [cite_start]📱 I have experience in **Mobile App Development** (React Native) and **UI/UX Design**[cite: 15, 72].
+- 🎓 I recently graduated with a **BSc (Hons) in Software Engineering** from Plymouth University (UK).
+- 💼 Currently working as an **IT Project Leader** at **Smart Scholar Hub (Pvt) Ltd**.
+- 💻 I love building user-centric applications using **React, Node.js, and Java**.
+- 📱 I have experience in **Mobile App Development** (React Native) and **UI/UX Design**.
 - 👯 I’m looking to collaborate on open-source projects.
 
 ---
@@ -43,14 +43,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=janith200102&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janith200102&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ---
